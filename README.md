@@ -129,7 +129,7 @@ What is the length of the longest possible completion in this system, given that
 #### Q5.06 - 2 Points
 Which of these are valid runs in this system?
 
-![Question 5 Part 2](figs/Q501.png)
+![Question 5 Part 2](figs/q501.png)
 
 ---
 
@@ -137,7 +137,7 @@ Which of these are valid runs in this system?
 
 Given below is a simple program. Fill in the blanks to complete the execution model. (The blanks have been denoted by roman numerals in green.)
 
-![Question 6](figs/Q6.png)
+![Question 6](figs/q6.png)
 
 ### Q6.01
 What should come in the place of (i)?
