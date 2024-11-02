@@ -98,7 +98,7 @@ t denotes whose turn is next (M for Mario, L for Luigi).
 
 Formally, the system can be defined as follows:
 
-![Question 5 Part 1](figs/q5.png)
+![Question 5 Part 1](figs/Q5.png)
 
 Any state that can be reached by starting from the initial state $(0,0,M)$ by following the aforementioned rules is a valid state.
 
@@ -129,7 +129,7 @@ What is the length of the longest possible completion in this system, given that
 #### Q5.06 - 2 Points
 Which of these are valid runs in this system?
 
-![Question 5 Part 2](figs/q501.png)
+![Question 5 Part 2](figs/Q501.png)
 
 ---
 
@@ -137,7 +137,7 @@ Which of these are valid runs in this system?
 
 Given below is a simple program. Fill in the blanks to complete the execution model. (The blanks have been denoted by roman numerals in green.)
 
-![Question 6](figs/q6.png)
+![Question 6](figs/Q6.png)
 
 ### Q6.01
 What should come in the place of (i)?
